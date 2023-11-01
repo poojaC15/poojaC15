@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Freadme-profile%3Fl%3Dmarkdown%26o%3Ddesc%26s%3D&psig=AOvVaw1ZWp3f-eHGjJjEKvpILO3h&ust=1698938840011000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODv1MKOo4IDFQAAAAAdAAAAABAq)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
 <h1 align="center">Hi 👋, I'm Pooja Chaudhary</h1>
 <h3 align="center">A inquisitive person and passionate coder exploring the new technologies.</h3>
 
