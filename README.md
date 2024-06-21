@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C Programming ,Html ,CSS , Javascript**
 
-- 📫 How to reach me **poojaa15000@gmail.com**
+- 📫 How to reach me **poojachaudharyy03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
