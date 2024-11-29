@@ -1,5 +1,5 @@
 
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Pooja Chaudhary</h1>
 <h3 align="center">2024 Computer Science Graduate | Aspiring Software Development Engineer skilled in Python, C++, and Web Development. Eager to build scalable solutions and contribute to innovative projects.</h3>
