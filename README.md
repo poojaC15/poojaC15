@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently Learning **React and Bankend**
+- 🌱 I’m currently Learning **Bankend**
 
 - 📫 How to reach me **Poojachaudharyy03@gmail.com**
 
